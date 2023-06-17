@@ -1,6 +1,6 @@
 name: random_library
 description: This is simple random library , you can get random string , random string with number , random string between tow letter random string between min and max length , random country , random arabian country , random khaliji country
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/AbdAlftahSalem/Random-library.git
 homepage: https://github.com/AbdAlftahSalem/Random-library.git
 

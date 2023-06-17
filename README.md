@@ -1,7 +1,6 @@
 # Radnom library
 
-The Random library is a Dart library for generated random ( .... ).
-
+This is simple random library , you can get random string , random string with number , random string between tow letter random string between min and max length , random country , random arabian country , random khaliji country
 ## Installation
 
 dependencies:
