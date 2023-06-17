@@ -3,8 +3,11 @@
 This is simple random library , you can get random string , random string with number , random string between tow letter random string between min and max length , random country , random arabian country , random khaliji country
 ## Installation
 
+
+```bash
 dependencies:
-random_library:
+    random_library: 1.0.1
+```
 
 ```bash
 flutter pub add random_library
