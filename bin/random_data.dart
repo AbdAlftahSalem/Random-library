@@ -4,7 +4,6 @@ import 'country_data.dart';
 import 'country_model.dart';
 
 class RandomGenerator {
-  static final RandomGenerator _instance = RandomGenerator._internal();
   final Random _random = Random();
 
   static final RandomGenerator singleton = RandomGenerator._internal();
@@ -87,5 +86,26 @@ class RandomGenerator {
     }
 
     return khalijiCountries;
+  }
+
+  List<Country> generateRandomArabianCountry(int lengthCountries) {
+    final List<Country> arabianCountries = [];
+
+    if (lengthCountries > 20 || lengthCountries < 1) {
+      throw Exception("Length can`t be more 20 or less than 1");
+    }
+    while (arabianCountries.length < lengthCountries) {
+      for (var i in countries) {
+        if (i["is_arabian_country"] &&
+            arabianCountries
+                .where((element) => element.name == i["name"])
+                .isEmpty) {
+          arabianCountries.add(Country.fromJson(i));
+          break;
+        }
+      }
+    }
+
+    return arabianCountries;
   }
 }
