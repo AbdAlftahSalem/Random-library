@@ -67,7 +67,7 @@ class RandomGenerator {
     return randomCountries;
   }
 
-  List<Country> generateRandomKhaliji(int lengthCountries) {
+  List<Country> generateRandomKhalijiCountry(int lengthCountries) {
     final List<Country> khalijiCountries = [];
 
     if (lengthCountries > 5 || lengthCountries < 1) {

@@ -23,7 +23,8 @@ import 'random_data.dart';
  RandomGenerator.singleton.generateRandomStringBetweenLetters("a", "d", 10);
  RandomGenerator.singleton.generateRandomStringInRange(4, 10);
  RandomGenerator.singleton.generateRandomStringWithNumbers(4);
- RandomGenerator.singleton.generateRandomKhaliji(2)
+ RandomGenerator.singleton.generateRandomKhalijiCountry(2)
+ RandomGenerator.singleton.generateRandomArabianCountry(2)
 ```
 
 ## Contributing
