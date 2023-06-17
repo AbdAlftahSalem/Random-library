@@ -1,14 +1,15 @@
 import 'dart:math';
 
-class RandomStringGenerator {
-  static final RandomStringGenerator _instance =
-      RandomStringGenerator._internal();
+import 'country_data.dart';
+import 'country_model.dart';
+
+class RandomGenerator {
+  static final RandomGenerator _instance = RandomGenerator._internal();
   final Random _random = Random();
 
-  static final RandomStringGenerator singleton =
-      RandomStringGenerator._internal();
+  static final RandomGenerator singleton = RandomGenerator._internal();
 
-  RandomStringGenerator._internal();
+  RandomGenerator._internal();
 
   String generateRandomString(int length) {
     String chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
@@ -46,5 +47,24 @@ class RandomStringGenerator {
     return String.fromCharCodes(
       List.generate(length, (_) => _random.nextInt(range) + start),
     );
+  }
+
+  List<Country> generateRandomCountries(int lengthCountries) {
+    final List<Country> randomCountries = [];
+
+    if (lengthCountries > countries.length || lengthCountries == 0) {
+      throw Exception('Count exceeds the number of available countries.');
+    }
+
+    while (randomCountries.length < lengthCountries) {
+      final randomIndex = _random.nextInt(countries.length);
+      if (randomCountries
+          .where((element) =>
+              element.name == Country.fromJson(countries[randomIndex]).name)
+          .isEmpty) {
+        randomCountries.add(Country.fromJson(countries[randomIndex]));
+      }
+    }
+    return randomCountries;
   }
 }

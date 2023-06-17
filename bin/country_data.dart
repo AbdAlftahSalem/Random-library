@@ -1,5 +1,3 @@
-
-
 List<Map<String, dynamic>> countries = [
   {
     "name": "Afghanistan",
@@ -10,8 +8,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AFG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇫",
-    "order": 0
   },
   {
     "name": "Albania",
@@ -22,8 +18,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ALB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇱",
-    "order": 0
   },
   {
     "name": "Algeria",
@@ -34,8 +28,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DZA",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇩🇿",
-    "order": 13
   },
   {
     "name": "Andorra",
@@ -46,8 +38,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AND",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇩",
-    "order": 0
   },
   {
     "name": "Angola",
@@ -58,8 +48,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AGO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇴",
-    "order": 0
   },
   {
     "name": "Anguilla",
@@ -70,8 +58,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AIA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇮",
-    "order": 0
   },
   {
     "name": "Antigua and Barbuda",
@@ -82,8 +68,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ATG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇬",
-    "order": 0
   },
   {
     "name": "Argentina",
@@ -94,8 +78,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ARG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇷",
-    "order": 0
   },
   {
     "name": "Armenia",
@@ -106,8 +88,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ARM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇲",
-    "order": 0
   },
   {
     "name": "Aruba",
@@ -118,8 +98,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ABW",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇼",
-    "order": 0
   },
   {
     "name": "Australia",
@@ -130,8 +108,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AUS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇺",
-    "order": 0
   },
   {
     "name": "Austria",
@@ -142,8 +118,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AUT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇹",
-    "order": 0
   },
   {
     "name": "Azerbaijan",
@@ -154,8 +128,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "AZE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇦🇿",
-    "order": 0
   },
   {
     "name": "Bahamas",
@@ -166,8 +138,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BHS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇸",
-    "order": 0
   },
   {
     "name": "Bahrain",
@@ -178,8 +148,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BHR",
     "is_arabian_country": true,
     "is_khaliji_country": true,
-    "flag": "🇧🇭",
-    "order": 20
   },
   {
     "name": "Bangladesh",
@@ -190,8 +158,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BGD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇩",
-    "order": 0
   },
   {
     "name": "Barbados",
@@ -202,8 +168,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BRB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇧",
-    "order": 0
   },
   {
     "name": "Belarus",
@@ -214,8 +178,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BLR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇾",
-    "order": 0
   },
   {
     "name": "Belgium",
@@ -226,8 +188,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BEL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇪",
-    "order": 0
   },
   {
     "name": "Belize",
@@ -238,8 +198,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BLZ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇿",
-    "order": 0
   },
   {
     "name": "Benin",
@@ -250,8 +208,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BEN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇯",
-    "order": 0
   },
   {
     "name": "Bermuda",
@@ -262,8 +218,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BMU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇲",
-    "order": 0
   },
   {
     "name": "Bhutan",
@@ -274,8 +228,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BTN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇹",
-    "order": 0
   },
   {
     "name": "Bolivia",
@@ -286,8 +238,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BOL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇴",
-    "order": 0
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -298,8 +248,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BIH",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇦",
-    "order": 0
   },
   {
     "name": "Botswana",
@@ -310,8 +258,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BWA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇼",
-    "order": 0
   },
   {
     "name": "Brazil",
@@ -322,8 +268,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BRA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇷",
-    "order": 0
   },
   {
     "name": "British Indian Ocean Territory",
@@ -334,8 +278,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IOT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇴",
-    "order": 0
   },
   {
     "name": "Brunei",
@@ -346,8 +288,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BRN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇳",
-    "order": 0
   },
   {
     "name": "Bulgaria",
@@ -358,8 +298,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BGR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇬",
-    "order": 0
   },
   {
     "name": "Burkina Faso",
@@ -370,8 +308,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BFA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇫",
-    "order": 0
   },
   {
     "name": "Myanmar",
@@ -382,8 +318,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MMR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇲",
-    "order": 0
   },
   {
     "name": "Burundi",
@@ -394,8 +328,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "BDI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇧🇮",
-    "order": 0
   },
   {
     "name": "Cambodia",
@@ -406,8 +338,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KHM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇭",
-    "order": 0
   },
   {
     "name": "Cameroon",
@@ -418,8 +348,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CMR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇲",
-    "order": 0
   },
   {
     "name": "Canada",
@@ -430,8 +358,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CAN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇦",
-    "order": 0
   },
   {
     "name": "Cape Verde",
@@ -442,8 +368,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CPV",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇻",
-    "order": 0
   },
   {
     "name": "Cayman Islands",
@@ -454,8 +378,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CYM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇾",
-    "order": 0
   },
   {
     "name": "Central African Republic",
@@ -466,8 +388,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CAF",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇫",
-    "order": 0
   },
   {
     "name": "Chad",
@@ -478,8 +398,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TCD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇩",
-    "order": 0
   },
   {
     "name": "Christmas Island",
@@ -490,8 +408,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CXR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇽",
-    "order": 0
   },
   {
     "name": "Cocos (Keeling) Islands",
@@ -502,8 +418,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CCK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇨",
-    "order": 0
   },
   {
     "name": "Cook Islands",
@@ -514,8 +428,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "COK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇰",
-    "order": 0
   },
   {
     "name": "Chile",
@@ -526,8 +438,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CHL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇱",
-    "order": 0
   },
   {
     "name": "China",
@@ -538,8 +448,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CHN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇳",
-    "order": 0
   },
   {
     "name": "Colombia",
@@ -550,8 +458,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "COL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇴",
-    "order": 0
   },
   {
     "name": "Comoros",
@@ -562,8 +468,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "COM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇲",
-    "order": 0
   },
   {
     "name": "Congo",
@@ -574,8 +478,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "COG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇬",
-    "order": 0
   },
   {
     "name": "Costa Rica",
@@ -586,8 +488,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CRI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇷",
-    "order": 0
   },
   {
     "name": "Croatia",
@@ -598,8 +498,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HRV",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇷",
-    "order": 0
   },
   {
     "name": "Cuba",
@@ -610,8 +508,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CUB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇺",
-    "order": 0
   },
   {
     "name": "Cyprus",
@@ -622,8 +518,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CYP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇾",
-    "order": 0
   },
   {
     "name": "Czech Republic",
@@ -634,8 +528,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CZE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇿",
-    "order": 0
   },
   {
     "name": "Denmark",
@@ -646,8 +538,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DNK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇩🇰",
-    "order": 0
   },
   {
     "name": "Djibouti",
@@ -658,8 +548,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DJI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇩🇯",
-    "order": 0
   },
   {
     "name": "Dominica",
@@ -670,8 +558,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DMA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇩🇲",
-    "order": 0
   },
   {
     "name": "Dominican Republic",
@@ -682,8 +568,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DOM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇩🇴",
-    "order": 0
   },
   {
     "name": "Timor-Leste",
@@ -694,8 +578,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TLS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇱",
-    "order": 0
   },
   {
     "name": "Tokelau",
@@ -706,8 +588,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TKL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇰",
-    "order": 0
   },
   {
     "name": "Turks and Caicos Islands",
@@ -718,8 +598,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TCA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇨",
-    "order": 0
   },
   {
     "name": "Ecuador",
@@ -730,8 +608,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ECU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇪🇨",
-    "order": 0
   },
   {
     "name": "Egypt",
@@ -742,8 +618,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "EGY",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇪🇬",
-    "order": 16
   },
   {
     "name": "El Salvador",
@@ -754,8 +628,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SLV",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇻",
-    "order": 0
   },
   {
     "name": "Equatorial Guinea",
@@ -766,8 +638,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GNQ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇶",
-    "order": 0
   },
   {
     "name": "Eritrea",
@@ -778,8 +648,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ERI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇪🇷",
-    "order": 0
   },
   {
     "name": "Estonia",
@@ -790,8 +658,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "EST",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇪🇪",
-    "order": 0
   },
   {
     "name": "Ethiopia",
@@ -802,8 +668,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ETH",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇪🇹",
-    "order": 0
   },
   {
     "name": "Faroe Islands",
@@ -814,8 +678,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "FRO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇫🇴",
-    "order": 0
   },
   {
     "name": "Falkland Islands",
@@ -826,8 +688,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "FLK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇫🇰",
-    "order": 0
   },
   {
     "name": "Fiji",
@@ -838,8 +698,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "FJI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇫🇯",
-    "order": 0
   },
   {
     "name": "Finland",
@@ -850,8 +708,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "FIN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇫🇮",
-    "order": 0
   },
   {
     "name": "France",
@@ -862,8 +718,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "FRA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇫🇷",
-    "order": 0
   },
   {
     "name": "French Polynesia",
@@ -874,8 +728,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PYF",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇫",
-    "order": 0
   },
   {
     "name": "Gabon",
@@ -886,8 +738,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GAB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇦",
-    "order": 0
   },
   {
     "name": "Gambia",
@@ -898,8 +748,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GMB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇲",
-    "order": 0
   },
   {
     "name": "Georgia",
@@ -910,8 +758,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GEO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇪",
-    "order": 0
   },
   {
     "name": "Gibraltar",
@@ -922,8 +768,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GIB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇮",
-    "order": 0
   },
   {
     "name": "Germany",
@@ -934,8 +778,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "DEU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇩🇪",
-    "order": 0
   },
   {
     "name": "Ghana",
@@ -946,8 +788,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GHA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇭",
-    "order": 0
   },
   {
     "name": "Greece",
@@ -958,8 +798,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GRC",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇷",
-    "order": 0
   },
   {
     "name": "Greenland",
@@ -970,8 +808,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GRL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇱",
-    "order": 0
   },
   {
     "name": "Guadeloupe",
@@ -982,8 +818,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GLP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇵",
-    "order": 0
   },
   {
     "name": "Grenada",
@@ -994,8 +828,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GRD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇩",
-    "order": 0
   },
   {
     "name": "Guernsey",
@@ -1006,8 +838,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GGY",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇬",
-    "order": 0
   },
   {
     "name": "Guatemala",
@@ -1018,8 +848,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GTM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇹",
-    "order": 0
   },
   {
     "name": "Guam",
@@ -1030,8 +858,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GUM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇺",
-    "order": 0
   },
   {
     "name": "Guinea",
@@ -1042,8 +868,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GIN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇳",
-    "order": 0
   },
   {
     "name": "Guinea-Bissau",
@@ -1054,8 +878,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GNB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇼",
-    "order": 0
   },
   {
     "name": "Guyana",
@@ -1066,8 +888,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GUY",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇾",
-    "order": 0
   },
   {
     "name": "Haiti",
@@ -1078,8 +898,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HTI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇹",
-    "order": 0
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -1090,8 +908,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HMD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇲",
-    "order": 0
   },
   {
     "name": "Jordan",
@@ -1102,8 +918,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "JOR",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇯🇴",
-    "order": 4
   },
   {
     "name": "Yemen",
@@ -1114,8 +928,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "YEM",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇾🇪",
-    "order": 3
   },
   {
     "name": "Honduras",
@@ -1126,8 +938,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HND",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇳",
-    "order": 0
   },
   {
     "name": "Hong Kong",
@@ -1138,8 +948,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HKG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇰",
-    "order": 0
   },
   {
     "name": "Hungary",
@@ -1150,8 +958,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "HUN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇭🇺",
-    "order": 0
   },
   {
     "name": "Iceland",
@@ -1162,8 +968,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ISL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇸",
-    "order": 0
   },
   {
     "name": "India",
@@ -1174,8 +978,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IND",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇳",
-    "order": 0
   },
   {
     "name": "Indonesia",
@@ -1186,8 +988,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IDN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇩",
-    "order": 0
   },
   {
     "name": "Iran",
@@ -1198,8 +998,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IRN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇷",
-    "order": 0
   },
   {
     "name": "Iraq",
@@ -1210,8 +1008,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IRQ",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇮🇶",
-    "order": 6
   },
   {
     "name": "Ireland",
@@ -1222,8 +1018,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IRL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇪",
-    "order": 0
   },
   {
     "name": "Isle of Man",
@@ -1234,8 +1028,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "IMN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇲",
-    "order": 0
   },
   {
     "name": "Palestine",
@@ -1246,20 +1038,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PSE",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇵🇸",
-    "order": 7
-  },
-  {
-    "name": "Israel",
-    "name_ar": "إسرائيل",
-    "dial_code": "+972",
-    "currency": "ILS",
-    "iso2": "IL",
-    "iso3": "ISR",
-    "is_arabian_country": false,
-    "is_khaliji_country": false,
-    "flag": "🇮🇱",
-    "order": 0
   },
   {
     "name": "Italy",
@@ -1270,8 +1048,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ITA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇮🇹",
-    "order": 0
   },
   {
     "name": "Ivory Coast",
@@ -1282,8 +1058,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CIV",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇮",
-    "order": 0
   },
   {
     "name": "Jamaica",
@@ -1294,8 +1068,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "JAM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇯🇲",
-    "order": 0
   },
   {
     "name": "Jersey",
@@ -1306,8 +1078,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "JEY",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇯🇪",
-    "order": 0
   },
   {
     "name": "Japan",
@@ -1318,8 +1088,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "JPN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇯🇵",
-    "order": 0
   },
   {
     "name": "Kazakhstan",
@@ -1330,8 +1098,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KAZ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇿",
-    "order": 0
   },
   {
     "name": "Kenya",
@@ -1342,8 +1108,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KEN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇪",
-    "order": 0
   },
   {
     "name": "Kiribati",
@@ -1354,8 +1118,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KIR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇮",
-    "order": 0
   },
   {
     "name": "North Korea",
@@ -1366,8 +1128,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PRK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇵",
-    "order": 0
   },
   {
     "name": "Kosovo",
@@ -1378,8 +1138,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "XKX",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇽🇰",
-    "order": 0
   },
   {
     "name": "Kuwait",
@@ -1390,8 +1148,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KWT",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇰🇼",
-    "order": 21
   },
   {
     "name": "Kyrgyzstan",
@@ -1402,8 +1158,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KGZ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇬",
-    "order": 0
   },
   {
     "name": "Laos",
@@ -1414,8 +1168,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LAO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇦",
-    "order": 0
   },
   {
     "name": "Latvia",
@@ -1426,8 +1178,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LVA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇻",
-    "order": 0
   },
   {
     "name": "Lebanon",
@@ -1438,8 +1188,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LBN",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇱🇧",
-    "order": 5
   },
   {
     "name": "Lesotho",
@@ -1450,8 +1198,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LSO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇸",
-    "order": 0
   },
   {
     "name": "Liberia",
@@ -1462,8 +1208,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LBR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇷",
-    "order": 0
   },
   {
     "name": "Libya",
@@ -1474,8 +1218,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LBY",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇱🇾",
-    "order": 11
   },
   {
     "name": "Liechtenstein",
@@ -1486,8 +1228,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LIE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇮",
-    "order": 0
   },
   {
     "name": "Luxembourg",
@@ -1498,8 +1238,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LUX",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇺",
-    "order": 0
   },
   {
     "name": "Macedonia",
@@ -1510,8 +1248,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MKD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇰",
-    "order": 0
   },
   {
     "name": "Madagascar",
@@ -1522,8 +1258,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MDG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇬",
-    "order": 0
   },
   {
     "name": "Marshall Islands",
@@ -1534,8 +1268,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MHL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇭",
-    "order": 0
   },
   {
     "name": "Macau",
@@ -1546,8 +1278,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MAC",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇴",
-    "order": 0
   },
   {
     "name": "Malawi",
@@ -1558,8 +1288,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MWI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇼",
-    "order": 0
   },
   {
     "name": "Malaysia",
@@ -1570,8 +1298,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MYS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇾",
-    "order": 0
   },
   {
     "name": "Maldives",
@@ -1582,8 +1308,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MDV",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇻",
-    "order": 0
   },
   {
     "name": "Mali",
@@ -1594,8 +1318,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MLI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇱",
-    "order": 0
   },
   {
     "name": "Malta",
@@ -1606,8 +1328,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MLT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇹",
-    "order": 0
   },
   {
     "name": "Martinique",
@@ -1618,8 +1338,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MTQ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇶",
-    "order": 0
   },
   {
     "name": "Mauritania",
@@ -1630,8 +1348,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MRT",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇲🇷",
-    "order": 15
   },
   {
     "name": "Mauritius",
@@ -1642,8 +1358,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MUS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇺",
-    "order": 0
   },
   {
     "name": "Mayotte",
@@ -1654,8 +1368,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MYT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇾🇹",
-    "order": 0
   },
   {
     "name": "Mexico",
@@ -1666,8 +1378,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MEX",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇽",
-    "order": 0
   },
   {
     "name": "Moldova",
@@ -1678,8 +1388,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MDA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇩",
-    "order": 0
   },
   {
     "name": "Mongolia",
@@ -1690,8 +1398,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MNG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇳",
-    "order": 0
   },
   {
     "name": "Montenegro",
@@ -1702,8 +1408,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MNE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇪",
-    "order": 0
   },
   {
     "name": "Monaco",
@@ -1714,8 +1418,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MCO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇨",
-    "order": 0
   },
   {
     "name": "Montserrat",
@@ -1726,8 +1428,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MSR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇸",
-    "order": 0
   },
   {
     "name": "Morocco",
@@ -1738,8 +1438,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MAR",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇲🇦",
-    "order": 14
   },
   {
     "name": "Mozambique",
@@ -1750,8 +1448,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MOZ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇿",
-    "order": 0
   },
   {
     "name": "Namibia",
@@ -1762,8 +1458,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NAM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇦",
-    "order": 0
   },
   {
     "name": "Nauru",
@@ -1774,8 +1468,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NRU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇷",
-    "order": 0
   },
   {
     "name": "Nepal",
@@ -1786,8 +1478,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NPL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇵",
-    "order": 0
   },
   {
     "name": "Netherlands",
@@ -1798,8 +1488,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NLD",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇱",
-    "order": 0
   },
   {
     "name": "New Caledonia",
@@ -1810,8 +1498,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NCL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇨",
-    "order": 0
   },
   {
     "name": "New Zealand",
@@ -1822,8 +1508,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NZL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇿",
-    "order": 0
   },
   {
     "name": "Nicaragua",
@@ -1834,8 +1518,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NIC",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇮",
-    "order": 0
   },
   {
     "name": "Niger",
@@ -1846,8 +1528,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NER",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇪",
-    "order": 0
   },
   {
     "name": "Nigeria",
@@ -1858,8 +1538,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NGA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇬",
-    "order": 0
   },
   {
     "name": "Norway",
@@ -1870,8 +1548,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NOR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇴",
-    "order": 0
   },
   {
     "name": "Niue",
@@ -1882,8 +1558,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NIU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇺",
-    "order": 0
   },
   {
     "name": "Norfolk Island",
@@ -1894,8 +1568,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "NFK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇳🇫",
-    "order": 0
   },
   {
     "name": "Northern Mariana Islands",
@@ -1906,8 +1578,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "MNP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇲🇵",
-    "order": 0
   },
   {
     "name": "Oman",
@@ -1918,8 +1588,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "OMN",
     "is_arabian_country": true,
     "is_khaliji_country": true,
-    "flag": "🇴🇲",
-    "order": 17
   },
   {
     "name": "Pakistan",
@@ -1930,8 +1598,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PAK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇰",
-    "order": 0
   },
   {
     "name": "Pitcairn",
@@ -1942,8 +1608,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PCN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇳",
-    "order": 0
   },
   {
     "name": "Palau",
@@ -1954,8 +1618,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PLW",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇼",
-    "order": 0
   },
   {
     "name": "Panama",
@@ -1966,8 +1628,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PAN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇦",
-    "order": 0
   },
   {
     "name": "Papua New Guinea",
@@ -1978,8 +1638,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PNG",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇬",
-    "order": 0
   },
   {
     "name": "Paraguay",
@@ -1990,8 +1648,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PRY",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇾",
-    "order": 0
   },
   {
     "name": "Peru",
@@ -2002,8 +1658,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PER",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇪",
-    "order": 0
   },
   {
     "name": "Philippines",
@@ -2014,8 +1668,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PHL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇭",
-    "order": 0
   },
   {
     "name": "Poland",
@@ -2026,8 +1678,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "POL",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇱",
-    "order": 0
   },
   {
     "name": "Portugal",
@@ -2038,8 +1688,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PRT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇹",
-    "order": 0
   },
   {
     "name": "Puerto Rico",
@@ -2050,8 +1698,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "PRI",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇷",
-    "order": 0
   },
   {
     "name": "South Korea",
@@ -2062,8 +1708,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KOR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇷",
-    "order": 0
   },
   {
     "name": "Lithuania",
@@ -2074,8 +1718,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LTU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇹",
-    "order": 0
   },
   {
     "name": "Qatar",
@@ -2086,8 +1728,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "QAT",
     "is_arabian_country": true,
     "is_khaliji_country": true,
-    "flag": "🇶🇦",
-    "order": 19
   },
   {
     "name": "Romania",
@@ -2098,8 +1738,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ROU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇷🇴",
-    "order": 0
   },
   {
     "name": "Russia",
@@ -2110,8 +1748,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "RUS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇷🇺",
-    "order": 0
   },
   {
     "name": "Rwanda",
@@ -2122,8 +1758,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "RWA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇷🇼",
-    "order": 0
   },
   {
     "name": "Réunion",
@@ -2134,8 +1768,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "REU",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇷🇪",
-    "order": 0
   },
   {
     "name": "Samoa",
@@ -2146,8 +1778,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "WSM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇼🇸",
-    "order": 0
   },
   {
     "name": "Saint Lucia",
@@ -2158,8 +1788,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LCA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇨",
-    "order": 0
   },
   {
     "name": "San Marino",
@@ -2170,8 +1798,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SMR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇲",
-    "order": 0
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -2182,8 +1808,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "KNA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇰🇳",
-    "order": 0
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -2194,8 +1818,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SPM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇵🇲",
-    "order": 0
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -2206,8 +1828,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "VCT",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇻🇨",
-    "order": 0
   },
   {
     "name": "Saudi Arabia",
@@ -2218,8 +1838,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SAU",
     "is_arabian_country": true,
     "is_khaliji_country": true,
-    "flag": "🇸🇦",
-    "order": 22
   },
   {
     "name": "Senegal",
@@ -2230,8 +1848,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SEN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇳",
-    "order": 0
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
@@ -2242,8 +1858,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SGS",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇸",
-    "order": 0
   },
   {
     "name": "Sao Tome and Principe",
@@ -2254,8 +1868,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "STP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇹",
-    "order": 0
   },
   {
     "name": "Sierra Leone",
@@ -2266,8 +1878,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SLE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇱",
-    "order": 0
   },
   {
     "name": "Serbia",
@@ -2278,8 +1888,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SRB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇷🇸",
-    "order": 0
   },
   {
     "name": "Seychelles",
@@ -2290,8 +1898,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SYC",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇨",
-    "order": 0
   },
   {
     "name": "Singapore",
@@ -2302,8 +1908,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SGP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇬",
-    "order": 0
   },
   {
     "name": "Slovakia",
@@ -2314,8 +1918,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SVK",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇰",
-    "order": 0
   },
   {
     "name": "Slovenia",
@@ -2326,8 +1928,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SVN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇮",
-    "order": 0
   },
   {
     "name": "Solomon Islands",
@@ -2338,8 +1938,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SLB",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇧",
-    "order": 0
   },
   {
     "name": "Somalia",
@@ -2350,8 +1948,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SOM",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇸🇴",
-    "order": 9
   },
   {
     "name": "South Africa",
@@ -2362,8 +1958,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ZAF",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇿🇦",
-    "order": 0
   },
   {
     "name": "Spain",
@@ -2374,8 +1968,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ESP",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇪🇸",
-    "order": 0
   },
   {
     "name": "Sri Lanka",
@@ -2386,8 +1978,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "LKA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇱🇰",
-    "order": 0
   },
   {
     "name": "Sudan",
@@ -2398,8 +1988,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SDN",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇸🇩",
-    "order": 10
   },
   {
     "name": "Suriname",
@@ -2410,8 +1998,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SUR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇷",
-    "order": 0
   },
   {
     "name": "Swaziland",
@@ -2422,8 +2008,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SWZ",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇿",
-    "order": 0
   },
   {
     "name": "Sweden",
@@ -2434,8 +2018,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SWE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇸🇪",
-    "order": 0
   },
   {
     "name": "Switzerland",
@@ -2446,8 +2028,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "CHE",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇨🇭",
-    "order": 0
   },
   {
     "name": "Syria",
@@ -2458,8 +2038,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "SYR",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇸🇾",
-    "order": 8
   },
   {
     "name": "Taiwan",
@@ -2470,8 +2048,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TWN",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇼",
-    "order": 0
   },
   {
     "name": "Tanzania",
@@ -2482,8 +2058,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TZA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇿",
-    "order": 0
   },
   {
     "name": "Thailand",
@@ -2494,8 +2068,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "THA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇭",
-    "order": 0
   },
   {
     "name": "Togo",
@@ -2506,8 +2078,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TGO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇬",
-    "order": 0
   },
   {
     "name": "Tonga",
@@ -2518,8 +2088,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TON",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇴",
-    "order": 0
   },
   {
     "name": "Trinidad and Tobago",
@@ -2530,8 +2098,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TTO",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇹",
-    "order": 0
   },
   {
     "name": "Tunisia",
@@ -2542,8 +2108,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TUN",
     "is_arabian_country": true,
     "is_khaliji_country": false,
-    "flag": "🇹🇳",
-    "order": 12
   },
   {
     "name": "Turkey",
@@ -2554,8 +2118,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TUR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇷",
-    "order": 0
   },
   {
     "name": "Turkmenistan",
@@ -2566,8 +2128,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "TKM",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇹🇲",
-    "order": 0
   },
   {
     "name": "Uganda",
@@ -2578,8 +2138,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "UGA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇺🇬",
-    "order": 0
   },
   {
     "name": "Ukraine",
@@ -2590,8 +2148,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "UKR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇺🇦",
-    "order": 0
   },
   {
     "name": "United Arab Emirates",
@@ -2602,8 +2158,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "ARE",
     "is_arabian_country": true,
     "is_khaliji_country": true,
-    "flag": "🇦🇪",
-    "order": 18
   },
   {
     "name": "United Kingdom",
@@ -2614,8 +2168,6 @@ List<Map<String, dynamic>> countries = [
     "iso3": "GBR",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇬🇧",
-    "order": 0
   },
   {
     "name": "United States",
@@ -2626,7 +2178,5 @@ List<Map<String, dynamic>> countries = [
     "iso3": "USA",
     "is_arabian_country": false,
     "is_khaliji_country": false,
-    "flag": "🇺🇸",
-    "order": 0
   }
 ];

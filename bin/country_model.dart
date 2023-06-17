@@ -1,4 +1,4 @@
-class Countries {
+class Country {
   final String name;
   final String nameAr;
   final String dialCode;
@@ -7,10 +7,8 @@ class Countries {
   final String iso3;
   final bool isArabianCountry;
   final bool isKhalijiCountry;
-  final String flag;
-  final int order;
 
-  Countries({
+  Country({
     required this.name,
     required this.nameAr,
     required this.dialCode,
@@ -19,12 +17,10 @@ class Countries {
     required this.iso3,
     required this.isArabianCountry,
     required this.isKhalijiCountry,
-    required this.flag,
-    required this.order,
   });
 
-  factory Countries.fromJson(Map<String, dynamic> json) {
-    return Countries(
+  factory Country.fromJson(Map<String, dynamic> json) {
+    return Country(
       name: json['name'],
       nameAr: json['name_ar'],
       dialCode: json['dial_code'],
@@ -33,8 +29,6 @@ class Countries {
       iso3: json['iso2'],
       isArabianCountry: json['is_arabian_country'],
       isKhalijiCountry: json['is_khaliji_country'],
-      flag: json['flag'],
-      order: json['order'],
     );
   }
   Map<String, dynamic> toJson() => {
@@ -46,7 +40,5 @@ class Countries {
     'iso3': iso3,
     'is_arabian_country': isArabianCountry,
     'is_khaliji_country': isKhalijiCountry,
-    'flag': flag,
-    'order': order,
   };
 }
