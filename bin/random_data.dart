@@ -67,4 +67,25 @@ class RandomGenerator {
     }
     return randomCountries;
   }
+
+  List<Country> generateRandomKhaliji(int lengthCountries) {
+    final List<Country> khalijiCountries = [];
+
+    if (lengthCountries > 5 || lengthCountries < 1) {
+      throw Exception("Length can`t be more 5 or less than 1");
+    }
+    while (khalijiCountries.length < lengthCountries) {
+      for (var i in countries) {
+        if (i["is_khaliji_country"] &&
+            khalijiCountries
+                .where((element) => element.name == i["name"])
+                .isEmpty) {
+          khalijiCountries.add(Country.fromJson(i));
+          break;
+        }
+      }
+    }
+
+    return khalijiCountries;
+  }
 }

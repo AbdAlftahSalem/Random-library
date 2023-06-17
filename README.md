@@ -5,7 +5,7 @@ The Random library is a Dart library for generated random ( .... ).
 ## Installation
 
 dependencies:
-  random_library:
+random_library:
 
 ```bash
 flutter pub add random_library
@@ -17,12 +17,13 @@ flutter pub add random_library
 import 'random_data.dart';
 
 
- // Generate a random string 
+// Generate a random string 
 
- RandomStringGenerator.singleton.generateRandomString(5);
- RandomStringGenerator.singleton.generateRandomStringBetweenLetters("a", "d", 10);
- RandomStringGenerator.singleton.generateRandomStringInRange(4, 10);
- RandomStringGenerator.singleton.generateRandomStringWithNumbers(4);
+ RandomGenerator.singleton.generateRandomString(5);
+ RandomGenerator.singleton.generateRandomStringBetweenLetters("a", "d", 10);
+ RandomGenerator.singleton.generateRandomStringInRange(4, 10);
+ RandomGenerator.singleton.generateRandomStringWithNumbers(4);
+ RandomGenerator.singleton.generateRandomKhaliji(2)
 ```
 
 ## Contributing
