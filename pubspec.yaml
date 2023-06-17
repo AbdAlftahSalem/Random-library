@@ -1,0 +1,14 @@
+name: random_library
+description: This is simple random library , you can get random string , random string with number , random string between tow letter random string between min and max length
+version: 1.0.0
+repository:
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
